@@ -1,3 +1,3 @@
 # Ecomm-Store
 
-A clothing ecommerce full-stack JS app I built with vanilla Javascript and Node.js
+A full-stack ecommerce clothing store application I built with vanilla Javascript and Node.js
